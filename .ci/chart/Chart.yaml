@@ -1,0 +1,12 @@
+apiVersion: v2
+appVersion: 0.0.1
+name: azpays-core
+version: 0.0.1
+description: A helm chart for azpays core project
+home: https://gitlab.com/azpays/core
+maintainers:
+- name: Alireza Josheghani
+  url: https://github.com/josh-trader4
+sources:
+- https://gitlab.com/azpays/core
+type: application
